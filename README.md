@@ -6,14 +6,71 @@ The Test Case Generation Agent is an AI-powered application that automatically g
 
 ![demo](demo/demo.gif)
 
-## Features
+## Key Capabilities
 
 - **Automated Test Case Generation** from plain text or PDF requirements documents
-- **Multiple Test Formats** including Gherkin and Selenium
+- **Multiple Test Formats** including Gherkin, Selenium, API, Performance and Security
 - **Industry Standards Integration** using Tavily search to incorporate best practices
+- **Real-Time Processing**: Shows progress through the entire AI pipeline
+- **Visual Analytics**: Charts and metrics for better insights
+- **Comprehensive Reports**: Detailed analysis and downloadable reports
+- **Smart Configuration**: Auto-detection and manual override options
 - **Edge Case Detection** to ensure comprehensive test coverage
 - **Customizable Detail Level** to match your testing needs
 - **Interactive Web Interface** built with Streamlit
+
+## Feature Details
+
+1. Modern UI/UX Design
+
+   - Clean, professional interface with custom CSS styling
+   - Tabbed layout for better organization
+   - Progress indicators and visual feedback
+   - Metric cards and status indicators
+
+2. Comprehensive Configuration Panel
+
+   - Model Selection: All available Groq models
+   - Test Format Options: Auto-detect, Gherkin, Selenium, API, Performance, Security
+   - Advanced Settings: Coverage options, quality levels, industry standards
+   - Analysis Options: Risk assessment, coverage analysis, defect prediction
+
+3. Multi-Tab Interface
+
+   - 💬 Chat Interface: Interactive conversation with the AI agent
+   - 📊 Analytics Dashboard: Visual metrics and insights
+   - 📋 Test Reports: Comprehensive test generation reports
+   - ℹ️ Help & Examples: Detailed documentation and examples
+
+4. Enhanced Analytics Dashboard
+
+   - Real-time metrics display
+   - Visual charts using Plotly (timeline, distribution)
+   - Detailed analysis sections
+   - Progress tracking with stage indicators
+
+5. Comprehensive Reporting
+
+   - Executive summary with key metrics
+   - Downloadable reports
+   - Expandable sections for detailed analysis
+   - Timestamp tracking and session management
+
+6. Advanced Features Integration
+
+   - Risk Assessment: Visual indicators and detailed analysis
+   - Coverage Analysis: Requirements traceability mapping
+   - Defect Prediction: AI-powered insights
+   - Test Prioritization: Smart execution planning
+   - Requirements Traceability: Links between tests and requirements
+
+7. User Experience
+
+   - Interactive progress tracking with 9 distinct stages
+   - Enhanced error handling and validation
+   - Session state management
+   - Clear help documentation with examples
+
 
 ## Installation
 
