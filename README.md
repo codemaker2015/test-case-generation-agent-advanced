@@ -109,7 +109,7 @@ source .venv/bin/activate   # Linux / Mac
 
 1. Start the application
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 2. Access the web interface at `http://localhost:8501`
